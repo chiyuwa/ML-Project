@@ -1,0 +1,7 @@
+json
+random
+numpy
+pandas 
+requests
+matplotlib.pyplot
+scikit-learn
