@@ -35,7 +35,7 @@ figs will be saved to ./figs, including visualized confusion matrix AUROC AUPR f
 ## Step-1
 
 ```python
-pip install -r requirements.txt
+pip install -r requirements_icl.txt
 ```
 
 ## Step-2
